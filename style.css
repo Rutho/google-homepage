@@ -1,9 +1,30 @@
 #ag {
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-text-align: center;
-min-height: 100vh;
+margin-left: 800px;
+margin-top: 300px;
+}
+#foot{
+position: fixed;
+bottom: 0%;	
+}
+#blist{
+list-style-type: none;
+margin: 0;
+padding: 0;
 
+
+}
+li{
+float: left;
+}
+.left{
+display: block;
+text-align: center;
+padding: 14px 16px;
+
+
+}
+.right{
+display: block;
+text-align: center;
+margin-left: 100px;
 }
