@@ -8,7 +8,7 @@ bottom: 0%;
 }
 #blist{
 list-style-type: none;
-margin: 0;
+
 padding: 0;
 
 
@@ -26,5 +26,11 @@ padding: 14px 16px;
 .right{
 display: block;
 text-align: center;
-margin-left: 100px;
+padding: 14px 16px;
+margin-right: 20px;
+}
+#ri{
+position: fixed;
+bottom: 0%;
+margin-left: 1500px;
 }
